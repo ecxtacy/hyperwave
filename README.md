@@ -1,5 +1,5 @@
 # Hyperwave 🌊
-Hyperwave is a toolkit for building really fast full-stack apps in TypeScript.
+Hyperwave is a toolkit for building really fast server-rendered apps in TypeScript.
 
 Run `bun dev`  , visit port 3000, and edit `src/server.ts` to get started!
 
